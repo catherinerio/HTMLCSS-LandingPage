@@ -347,9 +347,6 @@ footer a:hover{
 .ps img{
     max-width: 230px;
 }
-.demo{
-    padding: 0 30px;
-}
 .demo:before { 
     content: "";
     display: block;
@@ -357,6 +354,9 @@ footer a:hover{
     height: 1px;
     margin: 30px 0;
     background: linear-gradient(to right, #f05a28 0, #e80a89 100%);
+}
+.demo{
+    padding: 0 30px;
 }
 .copyright{
     flex: 0 0 75%;
